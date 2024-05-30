@@ -1,5 +1,5 @@
 {
-  "name": "@convert-number-to-word/convert-number-to-word",
+  "name": "convert-number-to-word",
   "version": "1.0.0",
   "description": "Convert arbitrary number to word",
   "main": "index.js",
