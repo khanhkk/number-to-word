@@ -1,0 +1,24 @@
+{
+  "name": "@convert-number-to-word/convert-number-to-word",
+  "version": "1.0.0",
+  "description": "Convert arbitrary number to word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanhkk/number-to-word.git"
+  },
+  "keywords": [
+    "convert-number-to-word",
+    "number-to-word",
+    "number2word"
+  ],
+  "author": "khanhkk",
+  "license": "ISC",
+  "dependencies": {
+    "num-words": "^1.2.3",
+    "vn-num2words": "^1.0.4"
+  }
+}
